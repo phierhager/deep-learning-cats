@@ -39,6 +39,10 @@ The codebase contains the following functions:
 
 These functions can be used to train a neural network to classify binary images as cats or non-cats. The codebase can be extended to classify other types of images by modifying the `load_data` function to load the appropriate dataset.
 
+## References
+
+Inspired by Andrew Ng's "Neural Networks and Deep Learning" course on Coursera.
+
 
 
 
